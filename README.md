@@ -13,4 +13,4 @@ The report makes two contributions:
 
 ## Report
 
-[Pecher.pdf](Pecher.pdf) (15 pages, English)
+[report.pdf](report.pdf) (15 pages, English)
